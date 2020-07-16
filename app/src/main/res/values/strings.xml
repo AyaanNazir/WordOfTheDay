@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Word of the Day</string>
+    <string name="word_of_the_day">Word of the Day</string>
+    <string name="Starred">Starred</string>
+    <string name="starred"><u>Starred</u></string>
+    <string name="random"><u>Random</u></string>
+    <string name="Words" />
+    <string name="words"><u>Words</u></string>
+    />
+</resources>
