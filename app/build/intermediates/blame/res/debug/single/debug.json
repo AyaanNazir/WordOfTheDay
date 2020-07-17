@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\far_s\\AndroidStudioProjects\\WordoftheDay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\far_s\\AndroidStudioProjects\\WordoftheDay\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "C:\\Users\\far_s\\AndroidStudioProjects\\WordoftheDay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_star_curved_outline_removebg_preview_4.png.flat",
         "source": "C:\\Users\\far_s\\AndroidStudioProjects\\WordoftheDay\\app\\src\\main\\res\\drawable-hdpi\\star_curved_outline_removebg_preview_4.png"
+    },
+    {
+        "merged": "C:\\Users\\far_s\\AndroidStudioProjects\\WordoftheDay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\far_s\\AndroidStudioProjects\\WordoftheDay\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\Users\\far_s\\AndroidStudioProjects\\WordoftheDay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_polygon_1.png.flat",
@@ -24,12 +24,12 @@
         "source": "C:\\Users\\far_s\\AndroidStudioProjects\\WordoftheDay\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\far_s\\AndroidStudioProjects\\WordoftheDay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\far_s\\AndroidStudioProjects\\WordoftheDay\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\far_s\\AndroidStudioProjects\\WordoftheDay\\app\\build\\intermediates\\res\\merged\\debug\\layout_starred.xml.flat",
         "source": "C:\\Users\\far_s\\AndroidStudioProjects\\WordoftheDay\\app\\src\\main\\res\\layout\\starred.xml"
+    },
+    {
+        "merged": "C:\\Users\\far_s\\AndroidStudioProjects\\WordoftheDay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\far_s\\AndroidStudioProjects\\WordoftheDay\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\far_s\\AndroidStudioProjects\\WordoftheDay\\app\\build\\intermediates\\res\\merged\\debug\\layout_random.xml.flat",

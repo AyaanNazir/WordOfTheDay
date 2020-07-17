@@ -690,7 +690,6 @@ id Definitions
 id FUNCTION
 id META
 id Random
-id RandomButton
 id SHIFT
 id SYM
 id Starred
@@ -755,6 +754,7 @@ id barrier
 id beginning
 id blocking
 id bottom
+id button
 id buttonPanel
 id center_vertical
 id chains
