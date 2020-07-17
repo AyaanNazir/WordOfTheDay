@@ -103,21 +103,10 @@
         android:layout_height="wrap_content"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.864"
+        app:layout_constraintVertical_bias= "0.864"
         app:layout_constraintStart_toStartOf="parent"
         app:srcCompat="@drawable/star_curved_outline_removebg_preview_4"
         tools:layout_editor_absoluteY="316dp" />
-
-    <Button
-        android:id="@+id/RandomButton"
-        android:layout_width="194dp"
-        android:layout_height="62dp"
-        android:layout_marginTop="496dp"
-        android:background="#E00000"
-        android:text="Click for Random Word"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.497"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
